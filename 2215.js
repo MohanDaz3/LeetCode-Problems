@@ -19,8 +19,6 @@ var findDifference = function(nums1, nums2) {
     }
     ans=[[...numsToOne],[...numsToTwo]]
     return ans
-   
-
 };
 
 console.log(findDifference([1,2,3],[2,4,6])); //[[1,3],[4,6]]
