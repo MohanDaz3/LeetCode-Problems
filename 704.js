@@ -1,6 +1,6 @@
 // 704. Binary Search
 // link:https://leetcode.com/problems/binary-search/
-// submitted not pushed git
+
 
 /**
  * @param {number[]} nums

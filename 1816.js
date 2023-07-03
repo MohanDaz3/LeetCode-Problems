@@ -1,4 +1,4 @@
-// Turncate Sentence
+// Truncate Sentence
 
 /**
  * @param {string} s
